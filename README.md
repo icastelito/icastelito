@@ -2,7 +2,7 @@
 ### Sou Icaro Castelo Branco da Costa e aqui está um pouco sobre mim
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icastelito&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icastelito&layout=default&theme=tokyonight&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icastelito&layout=compact&theme=tokyonight&card_width=450)
 
 
 
