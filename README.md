@@ -13,5 +13,5 @@
 🌱 Atualmente estou aprendendo desenvolvimento de API com Python.</br>
 🤔 Estou procurando ajuda para encontrar minha primeira oportunidade no mercado de trabalho.</br>
 💬 Pergunte-me sobre qualquer coisa, terei prazer em responder, e caso eu não saiba a resposta, terei prazer em descobrir.</br>
-📫 Como me alcançar: icastelobp@gmail.com / <a href="https://www.linkedin.com/in/icastelob/">https://www.linkedin.com/in/icastelob/</a></br>
+📫 Como me alcançar: i.castelobp@gmail.com / <a href="https://www.linkedin.com/in/icastelob/">https://www.linkedin.com/in/icastelob/</a></br>
 ⚡ Fatos divertidos: jogo RPG desde 2008, tenho atuado como Mestre desde 2013, isso me permitiu desenvolver grande facilidade de trabalho em conjunto.</br>
