@@ -1,17 +1,19 @@
 ### Hello there
-### Sou Icaro Castelo Branco da Costa e aqui está um pouco sobre mim
-###
+Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus projetos com você e espero que encontre algo de interesse aqui. Se você tiver alguma pergunta ou sugestão, não hesite em abrir uma issue ou enviar uma mensagem para mim. Obrigado por visitar! Aproveita e dá uma olhada nas minhas redes sociais. </br></br>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/icastelito) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/USERNAME/](https://www.linkedin.com/in/icastelob/)) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/USERNAME/](https://www.instagram.com/icastelito/)) 
+
+### Um pequeno resumo do que eu já fiz por aqui
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icastelito&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icastelito&layout=compact&theme=tokyonight&card_width=450)
 
+### Um pouco sobre mim
+Me chamo Icaro Castelo Branco, tenho 25 anos e sou Desenvolvedor Web e Front-End com 1 ano de experiência em projetos pessoais e estágio em desenvolvimento de software. Atualmente, trabalho como desenvolvedor web com foco em Wordpress. Estou sempre em busca de novos desafios e oportunidades de aprendizado, e atualmente estou estudando o desenvolvimento de API com Python. Se você está procurando por alguém para ajudá-lo em seus projetos ou tem alguma pergunta para mim, não hesite em entrar em contato por e-mail ou no LinkedIn. Além disso, sou apaixonado por RPG e tenho muita habilidade de trabalhar em equipe, o que torna o trabalho em conjunto divertido e produtivo. 
 
-
-
-💻 Sou Desenvolvedor Web e de Software Front-End, com um ano de experiência em projetos pessoais. </br>
-💻 Já atuei como estagiário em desenvolvimento de Software e atualmente sou desenvolvedor Web, trabalhando com Wordpress </br>
-🔭 Atualmente estou trabalhando em alguns projetos de estudo para integrarem meu portfólio.</br>
-🌱 Atualmente estou aprendendo desenvolvimento de API com Python.</br>
-🤔 Estou procurando ajuda para encontrar minha primeira oportunidade no mercado de trabalho.</br>
-💬 Pergunte-me sobre qualquer coisa, terei prazer em responder, e caso eu não saiba a resposta, terei prazer em descobrir.</br>
-📫 Como me alcançar: i.castelobp@gmail.com / <a href="https://www.linkedin.com/in/icastelob/">https://www.linkedin.com/in/icastelob/</a></br>
-⚡ Fatos divertidos: jogo RPG desde 2008, tenho atuado como Mestre desde 2013, isso me permitiu desenvolver grande facilidade de trabalho em conjunto.</br>
+### Informações detalhadas
+Nome: Icaro Castelo Branco da Costa </br>
+Idade: 25 anos </br>
+Localização: Fortaleza - CE </br>
+Stack: HTML - CSS - Javascript - React.js - Java - PHP </br>
+University: Unifametro - Análise e desenvolvimento de Sistemas - 3º Semestre </br>
