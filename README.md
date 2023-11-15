@@ -11,7 +11,7 @@ Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus p
 Me chamo Icaro Castelo Branco da Costa, tenho 25 anos e sou Desenvolvedor Web e Front-End com 1 ano de experiência em projetos pessoais e estágio em desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Mobile Fullstack, utilizando React Native, Laravel e mSQL. Estou sempre em busca de novos desafios e aprendizados, e atualmente estou estudando o desenvolvimento de API com Python. Se você está procurando por alguém para ajudá-lo em seus projetos ou tem alguma pergunta para mim, não hesite em entrar em contato por e-mail ou no LinkedIn. Além disso, sou apaixonado por RPG e tenho muita habilidade de trabalhar em equipe, o que torna o trabalho em conjunto divertido e produtivo. 
 
 ### Informações detalhadas
-Nome: Icaro Castelo Branco da Costa </br>
+Nome: Icaro Castelo </br>
 Idade: 25 anos </br>
 Localização: Fortaleza - CE </br>
 Stack: HTML - CSS - Javascript - React.js - React Native - Java - PHP - Laravel - Python - Django </br>
