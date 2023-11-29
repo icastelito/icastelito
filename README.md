@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo. </br>
 Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus projetos com você e espero que encontre algo de interesse aqui. Se você tiver alguma pergunta ou sugestão, não hesite em abrir uma issue ou enviar uma mensagem para mim. Obrigado por visitar! Aproveita e dá uma olhada nas minhas redes sociais. </br></br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icastelob/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/icastelo.dev/) 
+
 
 ### Um pequeno resumo do que eu já fiz por aqui
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icastelito&show_icons=true&theme=tokyonight)
