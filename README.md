@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo. </br>
-Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus projetos com você e espero que encontre algo de interesse aqui. Se você tiver alguma pergunta ou sugestão, não hesite em abrir uma issue ou enviar uma mensagem para mim. Obrigado por visitar! Aproveita e dá uma olhada nas minhas redes sociais. </br></br>
+Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus projetos com você e espero que encontre algo de interesse aqui. Se você tiver alguma pergunta ou sugestão, não hesite em abrir uma issue ou enviar uma mensagem para mim. Obrigado por visitar! Aproveita e dá uma olhada no meu LinkedIn. </br></br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icastelob/) 
 
 
