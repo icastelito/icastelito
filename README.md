@@ -8,11 +8,11 @@ Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus p
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icastelito&layout=compact&theme=tokyonight&card_width=450)
 
 ### Um pouco sobre mim
-Me chamo Icaro Castelo Branco da Costa, tenho 25 anos e sou Desenvolvedor Web e Front-End com 1 ano de experiência em projetos pessoais e estágio em desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Mobile Fullstack, utilizando React Native, Laravel e mSQL. Estou sempre em busca de novos desafios e aprendizados, e atualmente estou estudando o desenvolvimento de API com Python. Se você está procurando por alguém para ajudá-lo em seus projetos ou tem alguma pergunta para mim, não hesite em entrar em contato por e-mail ou no LinkedIn. Além disso, sou apaixonado por RPG e tenho muita habilidade de trabalhar em equipe, o que torna o trabalho em conjunto divertido e produtivo. 
+Me chamo Icaro Castelo Branco, tenho 26 anos e sou Desenvolvedor Web e Mobile [Front-End] com 1 ano de experiência em projetos pessoais e estágio em desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Mobile Fullstack, utilizando React Native, Laravel, SQLite e Firebird SQL Server 3.0. Atualmente estou estudando o desenvolvimento de API com Python Fast API. Se você está procurando por alguém para ajudá-lo em seus projetos ou tem alguma pergunta para mim, não hesite em entrar em contato por e-mail ou no LinkedIn. Além disso, sou apaixonado por RPG e tenho muita habilidade de trabalhar em equipe, o que torna o trabalho em conjunto divertido e produtivo. 
 
 ### Informações detalhadas
 Nome: Icaro Castelo </br>
-Idade: 25 anos </br>
+Idade: 26 anos </br>
 Localização: Fortaleza - CE </br>
-Stack: HTML - CSS - Javascript - React.js - React Native - Java - PHP - Laravel - Python - Django </br>
-University: Unifametro - Análise e desenvolvimento de Sistemas - 4º Semestre </br>
+Stack: React.js - React Native - HTML - CSS - Javascript - Java </br>
+Universidade: Unifametro - Análise e desenvolvimento de Sistemas - 5º Semestre </br>
