@@ -1,18 +1,29 @@
-### Olá, seja bem-vindo. </br>
-Bem-vindo ao meu repositório no GitHub! Fico muito feliz em compartilhar meus projetos com você e espero que encontre algo de interesse aqui. Se você tiver alguma pergunta ou sugestão, não hesite em abrir uma issue ou enviar uma mensagem para mim. Obrigado por visitar! Aproveita e dá uma olhada no meu LinkedIn. </br></br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icastelob/) 
+<h1 align="center">Olá, seja bem vindo, me chamo Icaro Castelo</h1>
+<h3 align="center">Desenvolvedor Web e de Software Front-End</h3>
 
 
-### Um pequeno resumo do que eu já fiz por aqui
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icastelito&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icastelito&layout=compact&theme=tokyonight&card_width=450)
+- 🔭 Atualmente estou trabalhando em um projeto pessoal [RPG Content Cards](https://github.com/icastelito/RPGContentCards)
 
-### Um pouco sobre mim
-Me chamo Icaro Castelo Branco, tenho 26 anos e sou Desenvolvedor Web e Mobile [Front-End] com 1 ano de experiência em projetos pessoais e estágio em desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Mobile Fullstack, utilizando React Native, Laravel, SQLite e Firebird SQL Server 3.0. Atualmente estou estudando o desenvolvimento de API com Python Fast API. Se você está procurando por alguém para ajudá-lo em seus projetos ou tem alguma pergunta para mim, não hesite em entrar em contato por e-mail ou no LinkedIn. Além disso, sou apaixonado por RPG e tenho muita habilidade de trabalhar em equipe, o que torna o trabalho em conjunto divertido e produtivo. 
+- 🌱 Atualmente estou aprendendo **desenvolvimento Android e de Jogos, além de aprimorando minhas habilidades com React**
 
-### Informações detalhadas
-Nome: Icaro Castelo </br>
-Idade: 26 anos </br>
-Localização: Fortaleza - CE </br>
-Stack: React.js - React Native - HTML - CSS - Javascript - Java </br>
-Universidade: Unifametro - Análise e desenvolvimento de Sistemas - 5º Semestre </br>
+- 📫Você pode entrar em contato comigo através do email **i.castelobp@gmail.com**
+
+- ⚡ Fun fact sobre mim **RPG foi o que me fez virar programador**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/icastelob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icastelob" height="30" width="40" /></a>
+<a href="https://instagram.com/icastelo.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icastelo.dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@mestrecastelotv3850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mestrecastelotv3850" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icastelito&show_icons=true&locale=en&layout=compact" alt="icastelito" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icastelito&show_icons=true&locale=en" alt="icastelito" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icastelito" alt="icastelito" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icastelito&label=Profile%20views&color=610eb4&style=flat" alt="icastelito" /> </p>
