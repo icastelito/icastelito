@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icastelito&show_icons=true&theme=tokyonight&locale=en" alt="icastelito" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=tokyonight)"><img src="https://github-profile-trophy.vercel.app/?username=icastelito&theme=tokyonight)" alt="icastelito" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=icastelito&layout=compact&theme=tokyonight&card_width=450))"><img src="https://github-profile-trophy.vercel.app/?username=icastelito&theme=tokyonight)" alt="icastelito" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icastelito&label=Profile%20views&color=610eb4&style=flat" alt="icastelito" /> </p>
