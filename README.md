@@ -2,13 +2,16 @@
 <h3 align="center">Desenvolvedor Web e de Software Front-End</h3>
 
 
-- 🔭 Atualmente estou trabalhando em um projeto pessoal [RPG Content Cards](https://github.com/icastelito/RPGContentCards)
+- 🔭 Atualmente estou trabalhando no desenvolvimento de um projeto pessoal voltado para RPG que você pode conferir no: [RPG Content Cards](https://github.com/icastelito/RPGContentCards)
 
 - 🌱 Atualmente estou aprendendo **desenvolvimento Android e de Jogos, além de aprimorando minhas habilidades com React**
 
 - 📫Você pode entrar em contato comigo através do email **i.castelobp@gmail.com**
 
 - ⚡ Fun fact sobre mim **RPG foi o que me fez virar programador**
+
+- 📖 Meus projetos mais importantes são os seguintes:
+  - Tela de Login do LOL: um clone da página de login de acesso ao launcher do LOL na época, esse projeto foi a primeira vez que consegui visualizar minhas capacidades de desenvolvimento e estilização com HTML e CSS, você pode acessar o código e ver ele funcionando nos links a seguir, respectivamente: [Code](https://github.com/icastelito/teladeloginlol) - [Deploy](https://icastelito.github.io/teladeloginlol/)
 
 <h3 align="left">Você pode me contactar através das seguintes redes:</h3>
 <p align="left">
