@@ -1,5 +1,5 @@
 <h1 align="center">Icaro Castelo</h1>
-<h3 align="center">Desenvolvedor Web e de Software Front-End</h3>
+<h3 align="center">Desenvolvedor Front-End Web, Software e Mobile.</h3>
 
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de um projeto pessoal voltado para RPG que você pode conferir no: [RPG Content Cards](https://github.com/icastelito/RPGContentCards)
