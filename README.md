@@ -10,12 +10,6 @@
 
 - ⚡ Fun fact sobre mim **RPG foi o que me fez virar programador**
 
-- 📖 Meus projetos mais importantes são os seguintes:
-  - Tela de Login do LOL: um clone da página de login de acesso ao launcher do LOL na época, esse projeto foi a primeira vez que consegui visualizar minhas capacidades de desenvolvimento e estilização com HTML e CSS, você pode acessar o código e ver ele funcionando nos links a seguir, respectivamente: [Code](https://github.com/icastelito/teladeloginlol) - [Deploy](https://icastelito.github.io/teladeloginlol/)
-  - Brazuka Atacarejo: similar ao projeto anterior, esse foi uma realização de tudo que eu tinha aprendido com React Js até aquele ponto, um projeto feito como teste para vaga de emprego, mas acabou se tornando outro marco das minhas habilidades como desenvolvedor você pode acessar o código e ver ele funcionando nos links a seguir, respectivamente: [Code](https://github.com/icastelito/brazuka-atacarejo) - [Deploy](https://brazuka-atacarejo.vercel.app/)
-  - School Fullstack Prject: esse foi meu primeiro projeto Fullstack, onde desenvolvi um Banco de Dados, API e todo o Front para renderizar dados, cadastrar, modificar e deletar. Ele me ajudou a entender que apesar de não atuar na área do desenvolvimento Back-End, eu ainda preciso ter conhecimentos sólidos dessa área, e você pode conferir o código desse projeto no link: [Code](https://github.com/icastelito/school-fullstack-project).
-  - RPG Content Cards: o projeto no qual eu venho trabalhando atualmente, diferente dos anteriores, esse aqui está servindo principalmente para exercitar minhas habilidades no gerenciamento de projeto e colocar em prática os conhecimentos acumulados em desenvolvimento Front-End com React e Typescript. Esse é um projeto que está sendo desenvolvido em conjunto com um grande amigo que cuida da parte de Back-End, você pode conferir o Código, o Deploy e o Perfil do desenvolvedor da API nos links a seguir, respectivamente: [Code](https://github.com/icastelito/RPGContentCards) - [Deploy](https://rpg-content-cards.vercel.app/) - [Anselmo Lopes, o desenvolvedor do Back-End](https://github.com/LpxsBr)
-
 <h3 align="left">Você pode me contactar através das seguintes redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/icastelob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icastelob" height="30" width="40" /></a>
