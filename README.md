@@ -1,14 +1,8 @@
 <h1 align="center">Icaro Castelo</h1>
-<h3 align="center">Desenvolvedor Fullstack, Software e Mobile.</h3>
+<h3 align="center">Desenvolvedor de Software Fullstack, Web e Mobile.</h3>
 
+Profissional apaixonado por desenvolvimento de software e resolução de problemas. Graduado em Análise e Desenvolvimento de Sistemas, com mais de 3 anos de experiência como desenvolvedor Web, liderando projetos de média escala, e 2 anos como desenvolvedor Mobile. Pós-graduado em Desenvolvimento Full Stack, compilando conhecimentos em programação avançada de forma autodidata em DevOps e Arquitetura de Sistemas.
 
-- 🔭 Atualmente estou trabalhando no desenvolvimento de um projeto pessoal voltado para RPG que você pode conferir no: [RPG Content Cards](https://github.com/icastelito/RPGContentCards)
-
-- 🌱 Atualmente estou aprendendo **desenvolvimento Android e de Jogos, além de aprimorando minhas habilidades com React**
-
-- 📫Você pode entrar em contato comigo através do email **i.castelobp@gmail.com**
-
-- ⚡ Fun fact sobre mim **RPG foi o que me fez virar programador**
 
 <h3 align="left">Você pode me contactar através das seguintes redes:</h3>
 <p align="left">
