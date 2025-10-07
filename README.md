@@ -1,7 +1,41 @@
 <h1 align="center">Icaro Castelo</h1>
 <h3 align="center">Desenvolvedor de Software Fullstack, Web e Mobile.</h3>
+ Técnico em Desenvolvimento, apaixonado por Tecnologia
 
-Profissional apaixonado por desenvolvimento de software e resolução de problemas. Graduado em Análise e Desenvolvimento de Sistemas, com mais de 3 anos de experiência como desenvolvedor Web, liderando projetos de média escala, e 2 anos como desenvolvedor Mobile. Pós-graduado em Desenvolvimento Full Stack, compilando conhecimentos em programação avançada de forma autodidata em DevOps e Arquitetura de Sistemas.
+Profissional apaixonado por desenvolvimento de software e resolução de problemas com soluções através da tecnologia.
+
+🎓 Graduado em Análise e Desenvolvimento de Sistemas, com trajetória em desenvolvimento de software desde 2016. Ampla experiência em projetos independentes e mais de 3 anos de atuação em empresas. Atuação em desenvolvimento web, mobile e full stack, com foco na criação e manutenção de APIs RESTful e na integração entre frontend e backend.
+
+📚 Pós-graduado em Desenvolvimento Full Stack, com estudos autodidatas em DevOps e Arquitetura de Sistemas.
+
+🛠️ Experiência e Habilidades
+
+🌐 Desenvolvimento Web: React, Laravel, JSF e Angular para interfaces responsivas, intuitivas e acessíveis.
+
+📱 Desenvolvimento Mobile: React Native e Expo, incluindo build, deploy e publicação nas lojas App Store e Google Play Store.
+
+🗄️ Banco de Dados: PostgreSQL, Firebird SQL 3.0, SQL Server e ferramentas como DBeaver.
+
+🔄 Metodologia Ágil: Scrum, atuando em squads multidisciplinares.
+
+⚙️ Tecnologias
+
+Frontend: React, React Native, HTML, CSS, Javascript, Typescript, Bootstrap, Styled Components, JSF, PrimeFaces
+
+Backend: Laravel, Django, Python, Java, Spring Boot
+
+Ferramentas: Git, GitHub, GitLab, Eclipse, VSCode, IntelliJ, Miro, Jira
+
+DevOps: Docker, Linux
+
+🚀 Projetos Liderados
+
+📱 Unifametro Online: Aplicativo Mobile para informações acadêmicas, solicitações de secretaria e pagamentos. Utilizado diariamente por +3.500 alunos. Desenvolvido com React Native, Expo e Laravel.
+
+💳 Autoatendimento: Aplicação Web de pagamentos via Pix e Cartão de Crédito, com suporte a múltiplos métodos e tratamento seguro de dados sensíveis. Desenvolvido inteiramente com Laravel.
+
+📬 Contato
+Aberto a networking, colaborações e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato!
 
 
 <h3 align="left">Você pode me contactar através das seguintes redes:</h3>
