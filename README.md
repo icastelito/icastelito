@@ -8,7 +8,7 @@ Currently acting as a **Contractor**, I help companies optimize legacy systems a
 
 - **Core:** Development of high-availability web applications and API design.
 - **Goal:** Remote opportunities in international teams where technical autonomy is valued.
-- **Entrepreneurship:** Founder of *Castelito*, an e-commerce brand where I handle product design and digital operations.
+
 
 ---
 
@@ -22,7 +22,7 @@ Atualmente atuando como **PJ**, ajudo empresas a otimizar sistemas legados e con
 
 - **Core:** Desenvolvimento de aplicações web de alta disponibilidade e design de APIs.
 - **Objetivo:** Oportunidades remotas internacionais onde a autonomia técnica seja valorizada.
-- **Empreendedorismo:** Fundador da *Castelito*, uma marca de e-commerce onde gerencio design de produto e operações digitais.
+
 
 ---
 
