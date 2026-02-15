@@ -46,20 +46,12 @@ Atualmente atuando como **PJ**, ajudo empresas a otimizar sistemas legados e con
 
 ---
 
-### 📊 Code Frequency
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_title=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=graywhite&hide_title=true&hide_border=true"/>
-</div>
-
----
 
 ### 📫 Contact / Contato
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/icastelob" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white">
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:i.castelobp@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white">
 </a>
